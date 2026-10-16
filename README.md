@@ -1,0 +1,2 @@
+# itsshoststore
+Deployed via Bot
